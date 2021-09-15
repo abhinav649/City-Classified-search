@@ -1,0 +1,1 @@
+welcome  <%= request.getParameter("useremail") %>
